@@ -2,8 +2,10 @@
 
 El proyecto es un Conversor de Monedas realizado con Java en Alura Challenge de ONE- Oracle Next Education.
 
-Requisitos 
-- El convertidor de moneda debe:
+Requisitos:
+
+El convertidor de moneda debe:
+
        - Convertir de la moneda de tu país a Dólar
        - Convertir de la moneda de tu país  a Euros
        - Convertir de la moneda de tu país  a Libras Esterlinas
